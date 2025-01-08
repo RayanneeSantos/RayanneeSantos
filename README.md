@@ -1,6 +1,6 @@
 ### Olá, eu sou Rayanne Santos 👋
 
-- 🌱 Cursando: Front-end e Análise e Desenvolvimento de Sistema
+- 🌱 Formada: Front-end e Análise e Desenvolvimento de Sistema
 - 😄 Pronouns : ela/dela
 
 <div>
